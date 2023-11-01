@@ -1,4 +1,3 @@
-
 /* Unix "cal" for Windows
  *   $ cc -Os -fno-asynchronous-unwind-tables -mno-stack-arg-probe
  *        -s -nostdlib -Wl,--gc-sections -o cal.exe cal.c -lkernel32
